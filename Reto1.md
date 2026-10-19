@@ -31,3 +31,10 @@
 - **Habilidades:** Competencia técnica, colaboración, autonomía.
 - **Ventajas:** Motivación, rapidez y mejora continua.
 - **Dificultades:** Requiere madurez; la falta de colaboración crea cuellos de botella.
+
+### ¿Qué rol me gustariá desempeñar?
+
+- **Javier:** Me gustaría ser ProductOwner porque creo que tengo buenas ideas y productos para vender.
+- **Victor:** Me gustaría ser Desarrollador porque se me da mejor trabajar sobre el codigo.
+- **Alejandro:** Me gastaría ser Scrum Master porque se me da bien organizar las tareas
+-**Zeit:** Me gustaría ser ...
