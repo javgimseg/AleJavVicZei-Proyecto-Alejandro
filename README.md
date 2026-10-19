@@ -32,8 +32,11 @@ Investigad los siguientes roles:
   
 Para cada rol indicad responsabilidades, habilidades necesarias, ventajas y dificultades.
 Reflexión individual: ¿qué rol me gustaría desempeñar y por qué?
+
 ## 3. Contrato de trabajo del equipo
+
 Elaborad un contrato de equipo que incluya los siguientes apartados:
+
 ### 1. Datos generales
    
 - Nombre del equipo y del proyecto.
@@ -65,22 +68,24 @@ debatidos en clase
 comunicación de dificultades con antelación
 • Aceptación de que la nota grupal puede verse afectada por la implicación individual.
 ## 4. Preparación del entorno GitHub
-• Crear la organización
-• Crear repositorio del proyecto
-• Crear README inicial. Debe incluir
-• Nombre del proyecto
-• Descripción
-• Integrantes
-• Tecnologías previstas
-• Estado actual
-• Enlace al tablero del proyecto (si existe)
-• Crear rama personal
-• Realizar commit y push individual
-Entrega
-• Documento grupal con análisis de problemas
-• Ficha individual de roles Scrum
-• Contrato de equipo firmado
-• Repositorio GitHub creado con primer commit de cada integrante
-Evaluación
+- Crear la organización
+- Crear repositorio del proyecto
+- Crear README inicial. Debe incluir
+- Nombre del proyecto
+- Descripción
+- Integrantes
+- Tecnologías previstas
+- Estado actual
+- Enlace al tablero del proyecto (si existe)
+- Crear rama personal
+- Realizar commit y push individual
+### Entrega
+
+- Documento grupal con análisis de problemas
+- Ficha individual de roles Scrum
+- Contrato de equipo firmado
+- Repositorio GitHub creado con primer commit de cada integrante
+  
+### Evaluación
 Se valorará la participación activa, la calidad de las reflexiones, la coherencia del contrato de
 equipo, la correcta asignación de roles y la puesta en marcha del repositorio GitHub.
