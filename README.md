@@ -8,6 +8,7 @@ Actividad a realizar
 ## 1. Los proyectos fracasan cuando...
 Analizad y debatid sobre experiencias previas de trabajo en grupo e identificad problemas
 habituales. Os dejo una lista de posibles problemas:
+
 • Falta de comunicación o malentendidos
 • Reparto desigual de tareas
 • Incumplimiento de plazos
@@ -20,6 +21,7 @@ habituales. Os dejo una lista de posibles problemas:
 • Dependencia de una única persona
 • No documentar adecuadamente
 • Mal uso de GitHub
+
 Completad una tabla con al menos 8 problemas, sus consecuencias y posibles soluciones.
 ## 2. Definición de roles Scrum
 Investigad los siguientes roles:
