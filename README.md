@@ -11,23 +11,23 @@ habituales. Os dejo una lista de posibles problemas:
 
 - Falta de comunicación o malentendidos
 - Reparto desigual de tareas
-• Incumplimiento de plazos
-• Desacuerdos en decisiones
-• Desmotivación
-• Conflictos personales
-• Falta de organización
-• Ausencias o retrasos repetidos
-• Calidad insuficiente
-• Dependencia de una única persona
-• No documentar adecuadamente
-• Mal uso de GitHub
+- Incumplimiento de plazos
+- Desacuerdos en decisiones
+- Desmotivación
+- Conflictos personales
+- Falta de organización
+- Ausencias o retrasos repetidos
+- Calidad insuficiente
+- Dependencia de una única persona
+- No documentar adecuadamente
+- Mal uso de GitHub
 
 Completad una tabla con al menos 8 problemas, sus consecuencias y posibles soluciones.
 ## 2. Definición de roles Scrum
 Investigad los siguientes roles:
-• Product Owner
-• Scrum Master
-• Equipo de Desarrollo
+- Product Owner
+- Scrum Master
+- Equipo de Desarrollo
 Para cada rol indicad responsabilidades, habilidades necesarias, ventajas y dificultades.
 Reflexión individual: ¿qué rol me gustaría desempeñar y por qué?
 ## 3. Contrato de trabajo del equipo
