@@ -25,29 +25,40 @@ habituales. Os dejo una lista de posibles problemas:
 Completad una tabla con al menos 8 problemas, sus consecuencias y posibles soluciones.
 ## 2. Definición de roles Scrum
 Investigad los siguientes roles:
+
 - Product Owner
 - Scrum Master
 - Equipo de Desarrollo
+  
 Para cada rol indicad responsabilidades, habilidades necesarias, ventajas y dificultades.
 Reflexión individual: ¿qué rol me gustaría desempeñar y por qué?
 ## 3. Contrato de trabajo del equipo
 Elaborad un contrato de equipo que incluya los siguientes apartados:
 1. Datos generales
-• Nombre del equipo y del proyecto.
-• Miembros del grupo y roles (Scrum Master, Product Owner, Desarrolladores, etc.).
-• Fecha de inicio y duración del proyecto.
-2. Objetivos del equipo
-• Qué pretende lograr el grupo (resultado final o producto).
-• Objetivos actitudinales: colaboración, respeto, puntualidad, mejora continua.
-3. Normas de funcionamiento
+   
+- Nombre del equipo y del proyecto.
+- Miembros del grupo y roles (Scrum Master, Product Owner, Desarrolladores, etc.).
+- Fecha de inicio y duración del proyecto.
+
+3. Objetivos del equipo
+   
+- Qué pretende lograr el grupo (resultado final o producto).
+- Objetivos actitudinales: colaboración, respeto, puntualidad, mejora continua.
+5. Normas de funcionamiento
+  
 • Horarios de trabajo, horario de reunión semanal sprint review.
 • Uso de herramientas (Trello, Office 365, Github...).
 • Canales oficiales de comunicación.
+
 ## 4. Toma de decisiones
-• Cómo se toman las decisiones (por consenso, votación, validación del Scrum Master…).
+
+- Cómo se toman las decisiones (por consenso, votación, validación del Scrum Master…).
+
 ## 5. Resolución de problemas
-• Cómo actuar si hay incumplimientos o desacuerdos. Tratar todos los problemas
+
+- Cómo actuar si hay incumplimientos o desacuerdos. Tratar todos los problemas
 debatidos en clase
+
 ## 6. Compromiso individual
 • Cada miembro asume el compromiso de colaboración, respeto, puntualidad,
 comunicación de dificultades con antelación
