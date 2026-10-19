@@ -9,8 +9,8 @@ Actividad a realizar
 Analizad y debatid sobre experiencias previas de trabajo en grupo e identificad problemas
 habituales. Os dejo una lista de posibles problemas:
 
-• Falta de comunicación o malentendidos
-• Reparto desigual de tareas
+- Falta de comunicación o malentendidos
+- Reparto desigual de tareas
 • Incumplimiento de plazos
 • Desacuerdos en decisiones
 • Desmotivación
