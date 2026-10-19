@@ -66,7 +66,8 @@ debatidos en clase
 
 - Cada miembro asume el compromiso de colaboración, respeto, puntualidad,
 comunicación de dificultades con antelación
-• Aceptación de que la nota grupal puede verse afectada por la implicación individual.
+- Aceptación de que la nota grupal puede verse afectada por la implicación individual.
+  
 ## 4. Preparación del entorno GitHub
 - Crear la organización
 - Crear repositorio del proyecto
