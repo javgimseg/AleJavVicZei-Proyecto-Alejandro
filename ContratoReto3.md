@@ -88,10 +88,10 @@ Asimismo, **todos los miembros aceptan** que:
 
 **Firmas:**
 
-| Miembro | Firma | Fecha |
-|---|---|---|
+| Miembro           | Firma | Fecha    |
+|---                |---    |---       |
 | Alejandro Cabrero |Firmado|20/10/2026|
-| _[Nombre 2]_ | | |
+| Víctor Puig       |Firmado|20/10/2026|
 | _[Nombre 3]_ | | |
 | _[Nombre 4]_ | | |
 | _[Nombre 5]_ | | |
