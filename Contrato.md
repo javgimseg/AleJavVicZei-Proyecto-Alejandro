@@ -90,44 +90,9 @@ Asimismo, **todos los miembros aceptan** que:
 
 | Miembro | Firma | Fecha |
 |---|---|---|
-| _[Nombre 1]_ | | |
+| Alejandro Cabrero |Firmado|20/10/2026|
 | _[Nombre 2]_ | | |
 | _[Nombre 3]_ | | |
 | _[Nombre 4]_ | | |
 | _[Nombre 5]_ | | |
 
-# 4. Preparación del entorno GitHub
-
-## 4.1. Crear la organización
-
-- Acceder a GitHub → **Settings → Organizations → New organization**.
-- Asignar un nombre representativo del equipo/proyecto.
-- Invitar a todos los miembros como **Owners** o **Members** según corresponda.
-
-## 4.2. Crear el repositorio del proyecto
-
-- Desde la organización: **New repository**.
-- Nombre: _[nombre-del-proyecto]_.
-- Visibilidad: **Private** (recomendado) o **Public** según indique el profesor.
-- Inicializar con **README** y, opcionalmente, `.gitignore` y licencia.
-
-## 4.3. Crear el README inicial
-
-# Nombre del proyecto
-
-## Descripción
-Breve descripción del proyecto y su propósito.
-
-## Integrantes
-- Nombre 1 — Rol
-- Nombre 2 — Rol
-- Nombre 3 — Rol
-
-## Tecnologías previstas
-- _[ej. Java, Spring Boot, MySQL, React...]_
-
-## Estado actual
-- _[ej. En fase de análisis / Sprint 1 en curso...]_
-
-## Enlace al tablero del proyecto
-- [Tablero Trello](https://trello.com/...)
