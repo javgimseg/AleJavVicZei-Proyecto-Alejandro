@@ -92,7 +92,7 @@ Asimismo, **todos los miembros aceptan** que:
 |---                |---    |---       |
 | Alejandro Cabrero |Firmado|20/10/2026|
 | Víctor Puig       |Firmado|20/10/2026|
-| _[Nombre 3]_ | | |
-| _[Nombre 4]_ | | |
-| _[Nombre 5]_ | | |
+| Zeit Warnier      |Firmado|22/10/2026|
+| Javier Gimenez    |Firmado|22/10/2026|
+
 
